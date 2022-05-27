@@ -1,0 +1,236 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+header {
+  overflow: hidden;
+  margin: 15px 15px;
+}
+.name {
+  float: left;
+  width: 80%; /* margin: auto; */
+}
+.name h3 {
+  width: 90%;
+  margin: auto;
+  float: left;
+  margin-left: 10px;
+}
+nav {
+}
+nav h3 {
+  width: 6%;
+  float: right;
+  margin: auto;
+  margin-right: 10px;
+}
+
+.banner {
+  width: 90%;
+  margin: auto;
+}
+.banner img {
+  width: 100%;
+}
+
+.body {
+  width: 90%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 60px;
+}
+.body_left {
+  width: 45%; /* margin: auto; */
+  float: left;
+}
+.body_left h3 {
+  margin-bottom: 50px;
+}
+.body_left p {
+  margin-left: 60px;
+}
+.body_right {
+  width: 45%; /* height: 300px; */
+  float: right;
+}
+.body_right img {
+  width: 100%; /* margin: auto; */
+  margin-top: 60p;
+}
+.body2 {
+  margin-top: 70px;
+  width: 90%;
+  margin: auto;
+  margin-top: 60px;
+}
+.body2_left {
+  width: 45%;
+  float: left;
+  margin-bottom: 30px;
+}
+
+.body2_left h3 {
+  margin-bottom: 30px;
+}
+.body2_left p {
+}
+
+.body2_right {
+  width: 45%;
+  float: right;
+  margin-bottom: 30px;
+}
+
+.body2_right h3 {
+  margin-bottom: 30px;
+}
+.body2_right p {
+}
+.problem {
+  width: 90%;
+  margin: auto;
+  overflow: hidden;
+}
+.prb1 {
+  width: 31%;
+  float: left;
+  margin-right: 3.5%;
+  height: 100%;
+}
+.prb1 img {
+  width: 100%;
+
+  height: 100%;
+}
+.prb2 {
+  height: 100%;
+  width: 31%;
+  margin-right: 3.5%;
+  float: left;
+}
+.prb2 img {
+  width: 100%;
+  height: 100%;
+}
+.prb3 {
+  float: left;
+  width: 31%;
+  height: 100%;
+}
+.prb3 img {
+  width: 100%;
+  height: 100%;
+}
+.body3 {
+  margin-top: 70px;
+  width: 90%;
+  margin: auto;
+  margin-top: 60px;
+}
+.body3_left {
+  width: 45%;
+  float: left;
+  margin-bottom: 30px;
+}
+
+.body3_left h3 {
+  margin-bottom: 30px;
+}
+.body3_left p {
+}
+.body3_right {
+  width: 45%;
+  float: right;
+  margin-bottom: 30px;
+}
+
+.body3_right h3 {
+  margin-bottom: 30px;
+}
+.body3_right p {
+}
+
+.photo {
+  width: 90%;
+  margin: auto;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+.photo_left {
+}
+.photo_left img {
+  width: 48%;
+  float: left;
+}
+.photo_right {
+}
+
+.photo_right img {
+  float: 45%;
+  width: 48%;
+  float: right;
+}
+
+.poster {
+  width: 90%;
+  margin: auto;
+}
+.poster img {
+  width: 100%;
+}
+
+button {
+  width: 20;
+  width: 20%;
+  margin: 50px 40%;
+  padding: 8px;
+  background: transparent;
+  border: 1px solid black;
+}
+
+footer {
+  width: 90%;
+  margin: auto;
+}
+.left {
+  float: left;
+  width: 25%;
+  margin-left: 30px;
+}
+.left h3 {
+  margin-bottom: 10px;
+}
+.left p {
+}
+.center {
+  width: 25%;
+  float: left;
+  margin-left: 70px;
+  /* list-style: none; */ /* text-decoration: none; */
+}
+.center ul {
+  list-style: none;
+  /* text-decoration: none; */
+}
+.center ul li {
+  text-decoration: none;
+}
+.center ul li a {
+  text-decoration: none; /* margin-bottom: 10px; */
+  color: black;
+}
+.right {
+  width: 25%;
+  float: left;
+  margin: auto;
+  margin-left: 110px;
+}
+.right ul {
+  list-style: none;
+}
+.right ul li {
+}
+.right ul li a {
+  text-decoration: none;
+  color: black;
+}
